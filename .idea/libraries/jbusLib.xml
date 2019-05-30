@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jbusLib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/jbusLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/jbusLib" recursive="false" />
+  </library>
+</component>

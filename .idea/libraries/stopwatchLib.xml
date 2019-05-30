@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="stopwatchLib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/stopwatchLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/stopwatchLib" recursive="false" />
+  </library>
+</component>

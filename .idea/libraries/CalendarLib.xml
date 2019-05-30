@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CalendarLib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/CalendarLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/CalendarLib" recursive="false" />
+  </library>
+</component>

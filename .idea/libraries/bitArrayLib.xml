@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bitArrayLib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/bitArrayLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/bitArrayLib" recursive="false" />
+  </library>
+</component>

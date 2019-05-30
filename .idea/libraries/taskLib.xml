@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="taskLib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/taskLib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/taskLib" recursive="false" />
+  </library>
+</component>
