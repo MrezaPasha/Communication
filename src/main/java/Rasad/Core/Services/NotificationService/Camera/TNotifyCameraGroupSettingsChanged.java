@@ -3,6 +3,7 @@ package main.java.Rasad.Core.Services.NotificationService.Camera;
 import Rasad.Core.*;
 import Rasad.Core.Services.*;
 import main.java.Rasad.Core.Services.NotificationService.TMessageBase;
+import main.java.Rasad._core.GenericProtobuf;
 
 //C# TO JAVA CONVERTER TODO TASK: Java annotations will not correspond to .NET attributes:
 //ORIGINAL LINE: [KnownType(typeof(CameraGroupChangeType))][DataContract][ProtoContract] public class TNotifyCameraGroupSettingsChanged : TMessageBase

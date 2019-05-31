@@ -4,7 +4,7 @@ import Rasad.Core.*;
 import Rasad.Core.Services.*;
 import main.java.Rasad._core.GenericProtobuf;
 
-public class CameraGroupChangeType
+public class CameraGroupChangeType extends GenericProtobuf<CameraGroupChangeType>
 {
 
 //C# TO JAVA CONVERTER TODO TASK: Java annotations will not correspond to .NET attributes:

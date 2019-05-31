@@ -8,6 +8,7 @@ import main.java.Rasad.Core.Services.NotificationService.TMessageBase;
 //ORIGINAL LINE: [DataContract][ProtoContract] public class TNotifyCameraRecordingStateChanged : TMessageBase
 public class TNotifyCameraRecordingStateChanged extends TMessageBase
 {
+
 	private TNotifyCameraRecordingStateChanged()
 	{
 	}

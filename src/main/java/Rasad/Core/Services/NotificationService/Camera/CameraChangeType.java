@@ -2,8 +2,9 @@ package main.java.Rasad.Core.Services.NotificationService.Camera;
 
 import Rasad.Core.*;
 import Rasad.Core.Services.*;
+import main.java.Rasad._core.GenericProtobuf;
 
-public class CameraChangeType
+public class CameraChangeType extends GenericProtobuf<CameraChangeType>
 {
 
 //C# TO JAVA CONVERTER TODO TASK: Java annotations will not correspond to .NET attributes:
